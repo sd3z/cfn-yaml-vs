@@ -2030,6 +2030,7 @@
     "    JSON object",
     "  ManagedPolicyArns:",
     "    - String",
+    "  MaxSessionDuration: Integer",
     "  Path: String",
     "  Policies:",
     "    - Policies",
